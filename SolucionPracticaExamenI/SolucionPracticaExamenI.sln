@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolucionPracticaExamenI", "SolucionPracticaExamenI\SolucionPracticaExamenI.csproj", "{93A9DC82-D901-4B6D-BCAF-094A87D30BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfPractica", "WcfPractica\WcfPractica.csproj", "{C7918ADD-59F6-445D-8F7A-E68B90E63C72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93A9DC82-D901-4B6D-BCAF-094A87D30BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A9DC82-D901-4B6D-BCAF-094A87D30BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A9DC82-D901-4B6D-BCAF-094A87D30BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A9DC82-D901-4B6D-BCAF-094A87D30BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7918ADD-59F6-445D-8F7A-E68B90E63C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7918ADD-59F6-445D-8F7A-E68B90E63C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7918ADD-59F6-445D-8F7A-E68B90E63C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7918ADD-59F6-445D-8F7A-E68B90E63C72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F325D45D-F3B9-4310-BA7A-BB3D9BE5491F}
+	EndGlobalSection
+EndGlobal
